@@ -1,5 +1,5 @@
 ### Hi!
-I'm Wande, I'm a Full Stack Developer from Indonesia :indonesia:.
+I'm Wande, I'm a Full Stack Developer from Indonesia :indonesia:.  
 I design and develop Web Application.
 
 You can contact me at :incoming_envelope: [hi@wande.id](mailto:hi@wande.id)

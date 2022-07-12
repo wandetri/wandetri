@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](./img/lg-white.gif#gh-light-mode-only)![](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
 
 <!--
 **wandetri/wandetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

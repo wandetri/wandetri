@@ -2,7 +2,7 @@
 I'm Wande, I'm a Full Stack Developer from Indonesia :indonesia:.
 I design and develop Web Application.
 
-You can contact me at :mail: [hi@wande.id](mailto:hi@wande.id)
+You can contact me at :incoming_envelope: [hi@wande.id](mailto:hi@wande.id)
 
 <!--
 **wandetri/wandetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
